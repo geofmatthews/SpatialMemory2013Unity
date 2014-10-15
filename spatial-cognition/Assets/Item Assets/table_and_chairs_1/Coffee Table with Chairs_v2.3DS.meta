@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: afa2dd49ebe5ffa4bb62d968e67dacb3
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: backseat
+    100002: backseat0
+    100004: Camera01
+    100006: Camera01.target
+    100008: Chair
+    100010: Chair_2
+    100012: Coffee Tab
+    100014: //RootNode
+    100016: frame
+    100018: frame0
+    100020: Ground
+    100022: middle_ci0
+    100024: middle_cir
+    100026: seat
+    100028: seat0
+    100030: Surface_gl
+    100032: Table
+    100034: table_leg0
+    100036: table_leg1
+    100038: table_leg_
+    400000: backseat
+    400002: backseat0
+    400004: Camera01
+    400006: Camera01.target
+    400008: Chair
+    400010: Chair_2
+    400012: Coffee Tab
+    400014: //RootNode
+    400016: frame
+    400018: frame0
+    400020: Ground
+    400022: middle_ci0
+    400024: middle_cir
+    400026: seat
+    400028: seat0
+    400030: Surface_gl
+    400032: Table
+    400034: table_leg0
+    400036: table_leg1
+    400038: table_leg_
+    2300000: backseat
+    2300002: backseat0
+    2300004: frame
+    2300006: frame0
+    2300008: Ground
+    2300010: middle_ci0
+    2300012: middle_cir
+    2300014: seat
+    2300016: seat0
+    2300018: Surface_gl
+    2300020: table_leg0
+    2300022: table_leg1
+    2300024: table_leg_
+    3300000: backseat
+    3300002: backseat0
+    3300004: frame
+    3300006: frame0
+    3300008: Ground
+    3300010: middle_ci0
+    3300012: middle_cir
+    3300014: seat
+    3300016: seat0
+    3300018: Surface_gl
+    3300020: table_leg0
+    3300022: table_leg1
+    3300024: table_leg_
+    4300000: Ground
+    4300002: seat
+    4300004: frame
+    4300006: backseat
+    4300008: middle_cir
+    4300010: Surface_gl
+    4300012: table_leg_
+    4300014: table_leg0
+    4300016: middle_ci0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
